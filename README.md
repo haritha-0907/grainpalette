@@ -1,2 +1,2 @@
-# grainpalette
-This is my first project on GitHub 
+#About my first project on GitHub.
+"GrainPalette is an exciting project that dives into the world of deep learning to classify different types of rice. We'll be using transfer learning, which means we'll be building upon existing models to achieve accurate classification. The project will involve data collection, image preprocessing, model building, and application development. The goal is to create a system that can accurately identify various rice types, showcasing the power of deep learning in agricultural applications."
